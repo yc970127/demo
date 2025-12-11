@@ -1,0 +1,36 @@
+{
+  "footer": {
+    "contact_us": "Contact Us",
+    "company_name": "E.P Machinery",
+    "address_line1": "Zhengzhou City, Henan Province, China",
+    "social": "Follow Us",
+    
+    "message": "Send Us a Message",
+    "name": "Name",
+    "name_placeholder": "Enter your name",
+    "work_email": "Work Email",
+    "work_email_placeholder": "Enter your email",
+    "whatsapp": "WhatsApp",
+    "whatsapp_placeholder": "Your WhatsApp number",
+    "country": "Country",
+    "country_placeholder": "Your country",
+    "message_label": "Message",
+    "message_placeholder": "How can we help you?",
+    "submit": "Submit",
+	"submitting": "Submitting…",
+
+    "quick_links": "Quick Links",
+    "shipment": "Shipment",
+    "warranty": "Warranty",
+    "marketing": "Marketing",
+    "services": "Services",
+	"ep-machine": "EP-Machine",
+    "company": "Company",
+    "about_us": "About Us",
+    "submit_success": "Thank you! Your message has been sent.",
+    "submit_fail": "Submission failed, please try again later.",
+
+    "version": "Version 2.0",
+    "copyright": "© 2025 E.P Machinery"
+  }
+}

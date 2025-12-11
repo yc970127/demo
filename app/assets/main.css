@@ -1,0 +1,14 @@
+html, body {
+      scroll-behavior: smooth;  
+}
+a{
+	text-decoration: none;
+}
+@media (max-width: 768px) {
+	  [data-aos] {
+	    transform: none !important;
+	    opacity: 1 !important;
+	  }
+	}
+
+

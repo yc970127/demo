@@ -1,0 +1,36 @@
+{
+  "footer": {
+    "contact_us": "联系我们",
+    "company_name": "E.P 机械",
+    "address_line1": "中国河南省郑州市",
+    "social": "关注我们",
+
+    "message": "在线留言",
+    "name": "姓名",
+    "name_placeholder": "请输入您的姓名",
+    "work_email": "工作邮箱",
+    "work_email_placeholder": "请输入您的邮箱",
+    "whatsapp": "WhatsApp",
+    "whatsapp_placeholder": "您的 WhatsApp 号码",
+    "country": "国家",
+    "country_placeholder": "您的国家",
+    "message_label": "留言内容",
+    "message_placeholder": "请描述您的需求…",
+    "submit": "提交",
+	"submitting": "提交中…",
+    "quick_links": "快速链接",
+    "shipment": "发货流程",
+    "warranty": "质保政策",
+    "marketing": "营销",
+    "ep-machine": "EP-Machine",
+	"services": "服务",
+    "company": "公司",
+    "about_us": "关于我们",
+
+    "submit_success": "感谢！您的信息已成功提交。",
+    "submit_fail": "提交失败，请稍后再试。",
+
+    "version": "版本 2.0",
+    "copyright": "© 2025 E.P 机械"
+  }
+}

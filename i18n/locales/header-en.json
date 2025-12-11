@@ -1,0 +1,24 @@
+{
+  "header": {
+    "brand": {
+      "title": "E.P MACHINERY",
+      "slogan": "Integrity & Professional & Quality"
+    },
+    "mobile_title": "E.P Machinery",
+    "menu": {
+      "home": "Home",
+      "products": "Products",
+      "solution": "Solution",
+      "cases": "Cases",
+      "news": "News",
+      "services": "Services",
+      "contacts": "Contacts",
+      "about_us": "About Us"
+    },
+    "language": {
+      "label": "Language",
+      "en": "English",
+      "zh": "简体中文"
+    }
+  }
+}

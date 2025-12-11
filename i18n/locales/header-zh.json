@@ -1,0 +1,24 @@
+{
+  "header": {
+    "brand": {
+      "title": "E.P MACHINERY",
+      "slogan": "诚信 · 专业 · 品质"
+    },
+    "mobile_title": "E.P 机械",
+    "menu": {
+      "home": "首页",
+      "products": "产品中心",
+      "solution": "解决方案",
+      "cases": "案例",
+      "news": "新闻",
+      "services": "服务",
+      "contacts": "联系我们",
+      "about_us": "关于我们"
+    },
+    "language": {
+      "label": "语言",
+      "en": "English",
+      "zh": "简体中文"
+    }
+  }
+}
